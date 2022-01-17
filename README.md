@@ -1,7 +1,13 @@
 # Iris
-Iris flowers classification using Machine Learning
+### Machine Learning Classification
 
-- Logistic Regression
-- Regression Tree
-- Random Forest
-- XGBoost
+Objective : Determine an Iris flower's species
+
+Summary :
+* Data Visualisation
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* XGBoost
+
+Data : https://www.kaggle.com/uciml/iris/
